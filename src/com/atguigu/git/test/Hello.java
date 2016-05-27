@@ -7,8 +7,8 @@ public class Hello {
 		System.out.println("github更新01");
 		System.out.println("local更新02");
 		System.out.println("local更新01");
-		
 		System.out.println("自制错误1");
+		System.out.println("自制错误2");
 	}
 	
 }
